@@ -1,6 +1,6 @@
 # This program calculates and displays travel expenses
 # October 9th 2023
-# CTI-110 P2HW2 - Travel
+# CTI-110 P2HW1 - Travel
 # Andrew Garcia
 
 print('This program calculates and displays travel expenses ')
